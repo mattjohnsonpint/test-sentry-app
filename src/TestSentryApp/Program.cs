@@ -19,7 +19,7 @@ internal static class Program
 
     private static void DoSomething()
     {
-        // throw new Exception("Test Exception 2");
-        Console.WriteLine("Hello World");
+        throw new Exception("Test Exception 2");
+        // Console.WriteLine("Hello World");
     }
 }
