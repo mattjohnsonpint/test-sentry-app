@@ -17,6 +17,6 @@ internal static class Program
 
     private static void DoSomething()
     {
-        throw new Exception("Test Exception");
+        throw new Exception("Test Exception 2");
     }
 }
